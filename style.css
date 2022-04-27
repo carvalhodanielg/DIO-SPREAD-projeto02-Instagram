@@ -42,4 +42,34 @@ body{
     border: 1px solid blue;
 }
 
+.card{
+    display: flex;
+    flex-direction: column;
+}
+
+.user-card{
+    border: 1px solid blue;
+    display: flex;
+    flex-direction: column;
+}
+
+.user-card {
+    border: 1px solid blue;
+    display: flex;
+    flex-direction: column;
+}
+
+.user-card #insta-logo{
+    width: 40%;
+}
+
+.user-card #insta-profile{
+    width: 40%;
+}
+
+
+
+
+
+
 
