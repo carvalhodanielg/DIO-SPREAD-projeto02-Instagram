@@ -25,6 +25,10 @@
 
 <!-- About the Project -->
 ## :star2: O projeto:
+  
+  O projeto é parte do Bootcamp DIo - Spread Fullstack Developer. A proposta é a recriação da página de login do Instagram, com o objetivo de fixar conceitos gerais de CSS, em especial Flexbox. 
+  
+  A página é responsiva, apresentando diferentes layouts conforme as dimensões da tela do usuário, favorecendo a usabilidade em dispositivos mobile.
 
 
 <!-- Screenshots -->
