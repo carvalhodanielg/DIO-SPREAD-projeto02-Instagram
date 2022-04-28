@@ -54,7 +54,7 @@ body{
 
 .user-card {
     margin-top: 100px;
-    border: 1px solid rgba(85, 85, 85, 0.445);
+    border: 2px solid rgba(129, 129, 129, 0.315);
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -108,7 +108,7 @@ body{
     margin-top: 10px;
     width: 450px;
     background-color: white;
-    border: 1px solid rgba(85, 85, 85, 0.445);
+    border: 2px solid rgba(129, 129, 129, 0.315);
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
